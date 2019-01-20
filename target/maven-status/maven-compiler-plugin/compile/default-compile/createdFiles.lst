@@ -1,0 +1,4 @@
+org/aws/samples/compute/greeting/StartupBean.class
+org/aws/samples/compute/greeting/MyApplication.class
+org/aws/samples/compute/greeting/GreetingHandler.class
+org/aws/samples/compute/greeting/GreetingEndpoint.class
