@@ -1,4 +1,4 @@
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/StartupBean.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/GreetingHandler.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/MyApplication.java
+/home/centos/aws-samples/microservices/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/StartupBean.java
+/home/centos/aws-samples/microservices/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/GreetingHandler.java
+/home/centos/aws-samples/microservices/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/MyApplication.java
+/home/centos/aws-samples/microservices/microservices-greeting/src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java
